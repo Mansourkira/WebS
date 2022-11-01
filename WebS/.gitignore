@@ -1,0 +1,7 @@
+# Here we put all files that are not supposed to be uploaded to github
+.idea
+
+node_modules
+
+
+package-lock.json
